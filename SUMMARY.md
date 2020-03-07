@@ -1,5 +1,3 @@
-# Table of contents
+# 目次
 
-* [Initial page](README.md)
-* [Test page](test-page.md)
-
+* [第一章](chap01.md)
